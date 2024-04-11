@@ -11,12 +11,14 @@
 ## wave 2
   -pray range/rigour  
   -shadow berserker  
-  -double vene shaman while standing west of shaman to ensure seer death  
-  -dclaw spec shaman  
-  -finish off shaman with tbow  
+  -double vene shaman
+    -if ideal spawn, immediately claw spec
+    -if not ideal spawn, do one extra double vene into claw spec
+  -finish off shaman with chaotic
   -rotate to jav and stand on westside of jav to finish off archer  
 
 ## wave 3
+  -use northeast pillar
   -pray range/rigour  
   -shadow berserker  
   -vene bow shaman from west to kill seer fast  
