@@ -11,6 +11,6 @@
 6. ?
 7. stand 1 tile east of chunk line
 8. stand 1 tile west of chunk line
-9. ?
+9. stand 1 tile east of chunk line
 10. stand 1 tile south of chunk line and 2 tiles west of shaman to ensure ricochet off of seer 
 11. stand 1 tile east of chunk line
