@@ -8,7 +8,7 @@
 3. stand 1 tile south of chunk line
 4. stand 1 tile west of chunk line (sometimes this setup doesn't work; i tihnk it has to do with fremmy spawn location)
 5. stand 1 tile north and 1 tile west of chunk lines
-6. stand 1 tile north of chunk lines
+6. ?
 7. stand 1 tile east of chunk line
 8. stand 1 tile west of chunk line
 9. stand 1 tile east of chunk line
