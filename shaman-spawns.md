@@ -2,6 +2,7 @@
 ![shaman-spawns](https://github.com/brumah/fortis-colosseum/assets/143656154/10de75d8-f36d-4d9f-a681-f535aa5f5c81)
 
 -Make sure to turn on world location chunk line plugin. All solves below refer to chunk lines closest to shaman.
+-Spawn location 1 and 4 are the only bad spawns (more optimization may be needed to remove any chance of bad spawns)
 
 1. wait for shaman to drag to edge of chunk line and stand 1 tile south of chunk line (you will lose ticks so potentially send a tbow shot as shaman drags)
 2. stand 1 tile south of chunk line
