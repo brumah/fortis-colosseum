@@ -1,7 +1,7 @@
 
 ![shaman-spawns](https://github.com/brumah/fortis-colosseum/assets/143656154/10de75d8-f36d-4d9f-a681-f535aa5f5c81)
 
--tile locations below are to ensure a shaman-seer-shaman ricochet
+-tile locations below are to ensure a shaman-seer-shaman ricochet  
 -Make sure to turn on world location chunk line plugin. All solves below refer to chunk lines closest to shaman
 -Spawn location 1 and 4 are the only bad spawns (more optimization may be needed to remove any chance of bad spawns)
 
