@@ -8,7 +8,7 @@
 3. stand 1 tile south of chunk line
 4. stand 1 tile west of chunk line (sometimes this setup doesn't work; i think it has to do with fremmy spawn location)
 5. stand 1 tile north and 1 tile west of chunk lines
-6. ?
+6. not sure if shaman can spawn here. I've never seen it in hundreds of runs
 7. stand 1 tile east of chunk line
 8. stand 1 tile west of chunk line
 9. stand 1 tile east of chunk line
