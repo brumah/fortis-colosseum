@@ -9,7 +9,7 @@
 1. wait for shaman to drag to edge of chunk line and stand 1 tile south of chunk line (you will lose ticks so potentially send a tbow shot as shaman drags)
 2. stand 1 tile south of chunk line
 3. stand 1 tile south of chunk line
-4. stand 1 tile west of chunk line (sometimes this setup doesn't work; i think it has to do with fremmy spawn location)
+4. spawn always gives a shaman-seer-archer ricochet
 5. stand 1 tile north and 1 tile west of chunk lines
 6. not sure if shaman can spawn here. I've never seen it in hundreds of runs
 7. stand 1 tile east of chunk line
